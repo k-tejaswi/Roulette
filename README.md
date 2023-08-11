@@ -1,6 +1,7 @@
 # Roulette
 The roulette wheel has the numbers 1-36 on it.
 You can place your bet in one of four ways:
+
 i. Bet on a number. (payout is 35 times the bet amount)
 ii. Bet on a colour.
 iii. Bet on an Odd or Even.
